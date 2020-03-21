@@ -2,11 +2,11 @@
 title: Hobby KB
 description: 
 published: true
-date: 2020-03-21T16:09:31.083Z
+date: 2020-03-21T16:22:35.387Z
 tags: 
 ---
 
-# Hobby KB
+# Hobby
 
 - Cube 3x3x3
 - Cube NxNxN
