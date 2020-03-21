@@ -1,8 +1,8 @@
 ---
-title: Linux KB
+title: Linux
 description: 
 published: true
-date: 2020-03-21T16:21:53.211Z
+date: 2020-03-21T16:24:40.479Z
 tags: linux
 ---
 
