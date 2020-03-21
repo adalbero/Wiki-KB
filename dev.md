@@ -1,12 +1,12 @@
 ---
-title: Dev Home
+title: Development KB
 description: 
 published: true
-date: 2020-03-21T16:20:49.907Z
+date: 2020-03-21T16:27:24.366Z
 tags: 
 ---
 
-# Developer KB
+# Development KB
 
 ## Web Development
 - Angular
@@ -14,5 +14,5 @@ tags:
 - TypeScript
 
 ## Enterprise Development
-- Documentum
+- [Documentum](/dev/documentum)
 - [Linux](/dev/linux)
