@@ -1,21 +1,20 @@
 ---
 title: Development KB
-description: 
+description: Tricks and tips about development
 published: true
-date: 2020-03-21T16:57:52.302Z
+date: 2020-03-21T17:19:07.742Z
 tags: 
 ---
 
-# Development KB
-
-## Web Development
+# Web Development
 - [Angular *Angular KB*](/dev/angular)
 - [JavaScript *JavaScript KB*](/dev/javascript)
 - [TypeScript *TypeScript KB*](/dev/typescript)
 {.links-list}
 
-## Enterprise Development
+# Enterprise Development
 - [Documentum *Documentum*](/dev/documentum)
 - [Linux *Linux KB*](/dev/linux)
 - [Captiva *Captiva KB*](/dev/captiva)
+- [Node.js *Node.js*](/dev/nodejs)
 {.links-list}
