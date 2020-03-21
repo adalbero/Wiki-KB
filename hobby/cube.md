@@ -2,7 +2,7 @@
 title: Cube KB
 description: tricks and tips
 published: true
-date: 2020-03-21T18:57:33.386Z
+date: 2020-03-21T18:58:07.078Z
 tags: 
 ---
 
