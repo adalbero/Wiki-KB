@@ -2,7 +2,7 @@
 title: Cube KB
 description: tricks and tips
 published: true
-date: 2020-03-21T19:00:16.036Z
+date: 2020-03-21T19:07:59.672Z
 tags: 
 ---
 
@@ -15,5 +15,6 @@ tags:
 # Videos
 
 How to Solve the 4x4x4 Rubik's Cube! (simplest way)
-<iframe width="480" height="270" src="https://www.youtube.com/embed/xGiP_bfJVaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![image](https://img.youtube.com/vi/xGiP_bfJVaw/0.jpg)](https://youtu.be/xGiP_bfJVaw){target="_blank"}
+
 
