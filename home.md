@@ -1,21 +1,20 @@
 ---
-title: Home
-description: 
+title: Adalbero's KB
+description: My collection of tricks and tips
 published: true
-date: 2020-01-22T16:48:18.580Z
+date: 2020-03-21T17:15:44.488Z
 tags: 
 ---
 
-# Adalbero's KB
+Welcome to my wiki/KB page.
 
-## Web Development
-  * Angular
-  * JavaScript
-  * TypeScript
+Here I share with you some trick and tips about the subjects I have some expertise.
 
-## Enterprise Development
-  * Documentum
-  * Linux
-  
-## Hobby
-  * Rubik's Cube
+# Development
+
+- [Development *Home Page*](/dev)
+{.links-list}
+
+# Hobby
+- [Hobby *Home Page*](/hobby)
+{.links-list}
