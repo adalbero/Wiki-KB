@@ -2,7 +2,7 @@
 title: Dev Home
 description: 
 published: true
-date: 2020-03-21T16:17:58.046Z
+date: 2020-03-21T16:20:49.907Z
 tags: 
 ---
 
@@ -15,4 +15,4 @@ tags:
 
 ## Enterprise Development
 - Documentum
-- Linux
+- [Linux](/dev/linux)
