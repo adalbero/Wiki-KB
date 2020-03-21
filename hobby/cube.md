@@ -2,14 +2,14 @@
 title: Cube KB
 description: tricks and tips
 published: true
-date: 2020-03-21T18:58:07.078Z
+date: 2020-03-21T19:00:16.036Z
 tags: 
 ---
 
 # Playground
 ![cubeplayground.png](/assets/cubeplayground.png =x200)
 
-- [https://alg.cubing.net *Cube playground*](https://alg.cubing.net){:target="_blank"}
+- [https://alg.cubing.net *Cube playground*](https://alg.cubing.net){target="_blank"}
 {.links-list}
 
 # Videos
