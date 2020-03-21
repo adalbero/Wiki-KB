@@ -1,8 +1,8 @@
 ---
 title: Development KB
-description: Tricks and tips about enterprise and development
+description: Tricks and tips about enterprise and web development
 published: true
-date: 2020-03-21T17:20:02.166Z
+date: 2020-03-21T17:57:29.178Z
 tags: 
 ---
 
