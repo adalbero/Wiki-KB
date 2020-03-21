@@ -2,7 +2,7 @@
 title: Node.js
 description: 
 published: true
-date: 2020-03-21T17:56:56.586Z
+date: 2020-03-21T18:02:34.670Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ tags:
 You can install **node.js** by downloading the latest version from https://nodejs.org, or use [Node Version Manager](#node-version-manager).
 
 ### Links
-- [Node *Home Page*](https://nodejs.org)
+- [https://nodejs.org *Node.js Home Page*](https://nodejs.org)
 {.links-list}
 
 
@@ -28,9 +28,12 @@ You can install **node.js** by downloading the latest version from https://nodej
 - `nvm root` : show the path where node will be installed
 - `nvm use <version>` : switch to an installed version of node.js
 
-
+### Tips
+> Note that any global modules installed in one version will not be shared with other versions.
+{.is-warning}
 
 ### Links
-- [Node Version Manager *Linux/Mac Version*](https://github.com/nvm-sh/nvm)
-- [Node Version Manager *Windows Version*](https://github.com/coreybutler/nvm-windows)
+- [https://github.com/nvm-sh/nvm *nvm Linux/Mac Version*](https://github.com/nvm-sh/nvm)
+- [https://github.com/coreybutler/nvm-windows *nvm Windows Version*](https://github.com/coreybutler/nvm-windows)
 {.links-list}
+
