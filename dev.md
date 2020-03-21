@@ -2,20 +2,20 @@
 title: Development KB
 description: 
 published: true
-date: 2020-03-21T16:49:11.496Z
+date: 2020-03-21T16:57:52.302Z
 tags: 
 ---
 
 # Development KB
 
 ## Web Development
-- Angular
-- JavaScript
-- TypeScript
+- [Angular *Angular KB*](/dev/angular)
+- [JavaScript *JavaScript KB*](/dev/javascript)
+- [TypeScript *TypeScript KB*](/dev/typescript)
+{.links-list}
 
 ## Enterprise Development
-> [Documentum](/dev/documentum)
-
-> [Linux](/dev/linux)
-
-> [Captiva](/dev/captiva) | abc
+- [Documentum *Documentum*](/dev/documentum)
+- [Linux *Linux KB*](/dev/linux)
+- [Captiva *Captiva KB*](/dev/captiva)
+{.links-list}
