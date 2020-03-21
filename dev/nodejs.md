@@ -2,11 +2,11 @@
 title: Node.js
 description: 
 published: true
-date: 2020-03-21T18:02:34.670Z
+date: 2020-03-21T18:04:51.869Z
 tags: 
 ---
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg =100x)
+![Image](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg =x50)
 
 # Install
 
