@@ -2,7 +2,7 @@
 title: MongoDB KB
 description: Tricks & Tips
 published: true
-date: 2020-03-26T10:13:16.182Z
+date: 2020-03-26T14:12:13.259Z
 tags: 
 ---
 
@@ -47,6 +47,12 @@ MongoDB shell version v4.2.5
 - Download and install **MongoDB Compass**. [Download](https://www.mongodb.com/download-center/compass){target="_blank"}
   - Make sure to download the latest **Stable** version
   - Do not use **Community Edition Stable**
+
+# Install MongoDB Shell
+You can install **MongoDB Shell** in any computer. It is only one .exe file.
+- Download **MongoDB Shell**. [Download](https://downloads.mongodb.org/win32/mongodb-shell-win32-x86_64-2012plus-4.2.5.zip)
+- Copy the `mongo.exe` from `/bin` folder in the zip file to any folder in your PATH.
+
 
 # Topics
 - MangoDB Query Language
