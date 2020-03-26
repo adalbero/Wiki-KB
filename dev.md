@@ -2,7 +2,7 @@
 title: Development KB
 description: Tricks and tips about enterprise and web development
 published: true
-date: 2020-03-26T07:52:46.518Z
+date: 2020-03-26T10:18:05.485Z
 tags: 
 ---
 
@@ -18,5 +18,9 @@ tags:
 - [Angular *Angular KB*](/dev/angular)
 - [JavaScript *JavaScript KB*](/dev/javascript)
 - [TypeScript *TypeScript KB*](/dev/typescript)
+{.links-list}
+
+# Others
+- [Other](/dev/other)
 {.links-list}
 
