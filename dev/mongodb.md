@@ -2,7 +2,7 @@
 title: MongoDB KB
 description: Tricks & Tips
 published: true
-date: 2020-03-26T09:06:13.284Z
+date: 2020-03-26T10:13:16.182Z
 tags: 
 ---
 
@@ -24,8 +24,8 @@ There is a powerfull query language based on JavaScript.
 - **MongoDB Shell** - Interactive JavaScript Interface to MongoDB (included with the server)
 - **MongoDB Atlas** - Cloud MongoDB Database
 
-# Install
-- Download and install **MongoDB Enterprise Server**
+# Install MongoDB Server
+- Download and install **MongoDB Enterprise Server**. [Download](https://www.mongodb.com/download-center/enterprise){target="_blank"}
 - When asked to install **MongoDB Compass**, unselect the checkbox. We will install a better version  later.
 - Add MongoDB bin folder to your PATH: `C:\Program Files\MongoDB\Server\4.2\bin`
 - To test, open the shell without connecting to a database:
@@ -43,6 +43,10 @@ MongoDB shell version v4.2.5
 > exit
 ```
 
+# Install MongoDB Compass
+- Download and install **MongoDB Compass**. [Download](https://www.mongodb.com/download-center/compass){target="_blank"}
+  - Make sure to download the latest **Stable** version
+  - Do not use **Community Edition Stable**
 
 # Topics
 - MangoDB Query Language
