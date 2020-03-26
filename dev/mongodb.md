@@ -2,7 +2,7 @@
 title: MongoDB KB
 description: Tricks & Tips
 published: true
-date: 2020-03-26T08:24:10.657Z
+date: 2020-03-26T08:32:31.730Z
 tags: 
 ---
 
@@ -10,10 +10,13 @@ tags:
 MongoDB is a non SQL database. It is document-based database.
 
 - **Database** - A set of collections
-- **Collections** - A set of documents
+- **Collections** - A set of documents of the same type
 - **Documents** - Each document is represented as a JSON object
 
 There is a powerfull query language based on JavaScript.
+
+> **Version** - Information based on MongoDB 4.2 
+{.is-info}
 
 # Products
 - **MongoDB Server** - Databse as a service or command line
