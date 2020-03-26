@@ -2,7 +2,7 @@
 title: MongoDB KB
 description: Tricks & Tips
 published: true
-date: 2020-03-26T14:12:13.259Z
+date: 2020-03-26T14:24:36.340Z
 tags: 
 ---
 
@@ -58,6 +58,10 @@ You can install **MongoDB Shell** in any computer. It is only one .exe file.
 - MangoDB Query Language
 - Mongo DB Install
 - Mongo DB Java Lib
+
+# More
+- [MongoDB Shell *Tricks & Tips*](/dev/mongodb/shell)
+{.links-list}
 
 # References
 - [Mongo DB *Home PAge*](https://www.mongodb.com){target="_blank"}
