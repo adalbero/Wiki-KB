@@ -2,7 +2,7 @@
 title: MongoDB KB
 description: Tricks & Tips
 published: true
-date: 2020-03-26T14:26:02.780Z
+date: 2020-03-27T13:45:12.364Z
 tags: 
 ---
 
@@ -55,6 +55,7 @@ MongoDB shell version v4.2.5
 
 # More
 - [MongoDB Shell *Tricks & Tips*](/dev/mongodb/shell)
+- [MongoDB Tools *Tricks & Tips*](/dev/mongodb/tools)
 {.links-list}
 
 # References
