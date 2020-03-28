@@ -2,7 +2,7 @@
 title: Cube KB
 description: tricks and tips
 published: true
-date: 2020-03-22T10:07:34.823Z
+date: 2020-03-28T15:20:43.387Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ tags:
 
 # Cube NxNxN
 
-[Cube NxNxN](/hobby/cubeNxNxN)
+[Cube NxNxN](/hobby/cube_big)
 
 # Videos
 
