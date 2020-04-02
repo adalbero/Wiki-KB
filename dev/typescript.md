@@ -2,7 +2,7 @@
 title: TypeScript KB
 description: Tricks & Tips
 published: true
-date: 2020-04-02T18:33:48.326Z
+date: 2020-04-02T18:55:15.272Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ Creates a `tsconfig.json` file
 tsc --init
 ```
 
-Default `tsconfig.json`
+Full `tsconfig.json`
 
 ```json
 {
@@ -92,6 +92,26 @@ Default `tsconfig.json`
 
 ```
 
+Sample `tsconfig.json`
+
+```json
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "module": "commonjs",
+    "strict": true,
+    "target": "es2015",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "forceConsistentCasingInFileNames": true
+  }
+}
+
+```
 # Links
 - [TypeScript *Home Page*](https://www.typescriptlang.org){target="_blank'}
 {.links-list}
