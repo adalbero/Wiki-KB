@@ -2,7 +2,7 @@
 title: Node.js
 description: 
 published: true
-date: 2020-04-02T18:13:54.874Z
+date: 2020-04-02T18:25:59.426Z
 tags: 
 ---
 
@@ -48,5 +48,10 @@ You can install **node.js** by downloading the latest version from https://nodej
 - `npm list -g -depth 0` : list all installed modules globally
 {.grid-list}
 
+# Common Node Modules
 
+## Global Modules
+
+- TypeScript *`npm install -g typescript`*
+{.links-list}
 
