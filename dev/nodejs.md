@@ -2,7 +2,7 @@
 title: Node.js
 description: 
 published: true
-date: 2020-04-02T18:25:59.426Z
+date: 2020-04-02T18:27:54.044Z
 tags: 
 ---
 
@@ -42,7 +42,7 @@ You can install **node.js** by downloading the latest version from https://nodej
 
 `npm` is installed automatically with `node.js`
 
-- 'npm init -y' : create a new node project in the current folder
+- `npm init -y` : create a new node project in the current folder
 - `npm install <module>` : install `module` locally
 - `npm install -g <module>` : install `module` globally
 - `npm list -g -depth 0` : list all installed modules globally
@@ -52,6 +52,6 @@ You can install **node.js** by downloading the latest version from https://nodej
 
 ## Global Modules
 
-- TypeScript *`npm install -g typescript`*
-{.links-list}
+- `npm install -g typescript` : TypeScript
+{.grid-list}
 
