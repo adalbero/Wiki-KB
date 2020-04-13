@@ -2,7 +2,7 @@
 title: Node.js
 description: 
 published: true
-date: 2020-04-05T10:45:27.135Z
+date: 2020-04-13T12:48:20.697Z
 tags: 
 ---
 
@@ -81,5 +81,6 @@ npm update
 ## Global Modules
 
 - `npm install -g typescript` : TypeScript
+- `npm install -g firebase-tools `: Firebaase CLI
 {.grid-list}
 
