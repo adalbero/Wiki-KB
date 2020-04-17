@@ -2,7 +2,7 @@
 title: Angular KB
 description: Tricks & Tips
 published: true
-date: 2020-04-17T08:45:43.947Z
+date: 2020-04-17T08:54:19.924Z
 tags: 
 ---
 
@@ -30,6 +30,11 @@ ng new <project-name>
 ```
 cd <project-name>
 ```
+- First commit
+```
+git add .
+git commit -m "init"
+```
 - Start Dev Server at `http://localhost:4200/`
 ```
 ng serve --open
@@ -38,3 +43,10 @@ ng serve --open
 ```
 code .
 ```
+
+# Configurations
+
+## VS Code
+- Theme: Cobalt2
+
+## 
