@@ -2,7 +2,7 @@
 title: Angular KB
 description: Tricks & Tips
 published: true
-date: 2020-04-17T08:36:30.197Z
+date: 2020-04-17T08:41:23.593Z
 tags: 
 ---
 
@@ -12,7 +12,15 @@ tags:
 - [VS Code *IDE*](/dev/vscode)
 {.links-list}
 
-## New Project
+# Install
+- Install Node js
+[Download Node js](https://nodejs.org/en/download/){target='_blanck'}
+- Install VS Code
+[Download VS Code](https://code.visualstudio.com/){target='_blanck'}
+- Install Angular
+`npm install -g @angular/cli`
+
+# New Project
 - Create a new project
 ```
 ng new <project-name>
