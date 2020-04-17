@@ -2,7 +2,7 @@
 title: Angular KB
 description: Tricks & Tips
 published: true
-date: 2020-04-17T10:01:02.591Z
+date: 2020-04-17T15:27:49.893Z
 tags: 
 ---
 
@@ -56,7 +56,24 @@ code .
 ## angular.json
 
 - set `baseHref` with the context
-`projects.one-search.architect.build.configuration.production.baseHref=/<context>/`
+```json
+{
+  "projects": {
+    "<project_name>": {
+      "architect": {
+        "build": {
+          "configurations": {
+            "production": {
+              "baseHref": "/<context>/"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+```
 
 # Commands
 
