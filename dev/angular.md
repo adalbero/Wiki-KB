@@ -2,12 +2,12 @@
 title: Angular KB
 description: Tricks & Tips
 published: true
-date: 2020-04-17T08:35:25.418Z
+date: 2020-04-17T08:36:30.197Z
 tags: 
 ---
 
 # Dependencies
-- [Angular CLI *Angular Command Line Interface*](https://github.com/angular/angular-cli)
+- [Angular CLI *Angular Command Line Interface*](https://github.com/angular/angular-cli){target='_blanck'}
 - [Node.js *Node.js runtime*](/dev/nodejs)
 - [VS Code *IDE*](/dev/vscode)
 {.links-list}
