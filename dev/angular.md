@@ -2,7 +2,7 @@
 title: Angular KB
 description: Tricks & Tips
 published: true
-date: 2020-04-17T08:54:19.924Z
+date: 2020-04-17T10:01:02.591Z
 tags: 
 ---
 
@@ -44,9 +44,28 @@ ng serve --open
 code .
 ```
 
-# Configurations
+# Settings
+
 
 ## VS Code
 - Theme: Cobalt2
+- TSLint
+- Editor: Format On Save = true
+- Prettier: Single Quote = true
 
-## 
+## angular.json
+
+- set `baseHref` with the context
+`projects.one-search.architect.build.configuration.production.baseHref=/<context>/`
+
+# Commands
+
+## Angular Commands
+- Start dev server
+```
+ng serve
+```
+- Generate a new component, without `.spec` file
+```
+ng g c --skipTests components/<name>
+```
