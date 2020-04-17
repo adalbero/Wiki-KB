@@ -2,11 +2,11 @@
 title: Projects KB
 description: Projects documentation
 published: true
-date: 2020-04-17T07:05:32.611Z
+date: 2020-04-17T07:06:39.296Z
 tags: 
 ---
 
 # Personal Projects
 
-- [LiD *Leben in Deutschland Project*]{/projects/lid}
+- [LiD *Leben in Deutschland Project*](/projects/lid)
 {.links-list}
