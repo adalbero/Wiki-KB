@@ -2,7 +2,7 @@
 title: Sudoku
 description: Only 4 given digits
 published: true
-date: 2020-04-22T07:15:40.108Z
+date: 2020-04-22T07:15:52.211Z
 tags: 
 ---
 
@@ -27,6 +27,6 @@ tags:
   ![sudoku-knight.png](/assets/hobby/sudoku/sudoku-knight.png)
   
 # References
-- [Solve Online](https://cracking-the-cryptic.web.app/sudoku/2QM8JHJ4HB){target="_blanck"}
+- [Play Online](https://cracking-the-cryptic.web.app/sudoku/2QM8JHJ4HB){target="_blanck"}
 - [Youtube Solution](https://www.youtube.com/watch?v=hAyZ9K2EBF0){target="_blanck"}
 {.links-list}
