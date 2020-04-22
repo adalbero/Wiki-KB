@@ -2,13 +2,12 @@
 title: Hobby
 description: 
 published: true
-date: 2020-03-21T18:54:25.468Z
+date: 2020-04-22T06:47:45.381Z
 tags: 
 ---
 
-# Cube
+# Hobby
 
 - [Cube](/hobby/cube)
+- [Sudoku](/hobby/sudoku)
 {.links-list}
-
-# 3D Printer
