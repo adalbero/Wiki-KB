@@ -2,7 +2,7 @@
 title: Sudoku
 description: Only 4 given digits
 published: true
-date: 2020-04-22T07:14:25.456Z
+date: 2020-04-22T07:15:40.108Z
 tags: 
 ---
 
