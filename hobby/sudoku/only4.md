@@ -2,9 +2,13 @@
 title: Sudoku
 description: Only 4 given digits
 published: true
-date: 2020-04-22T07:00:48.565Z
+date: 2020-04-22T07:04:28.712Z
 tags: 
 ---
+
+# Board
+
+![sudoku.png](/assets/hobby/sudoku/sudoku.png)
 
 # Rules
 
@@ -20,10 +24,6 @@ tags:
 - Knight's move
   - cells that are knigt's move apart (in chess) cannot contain the same digit
   
-# Board
-
-![sudoku.png](/assets/hobby/sudoku/sudoku.png)
-
 # References
 - [Solve Online](https://cracking-the-cryptic.web.app/sudoku/2QM8JHJ4HB){target="_blanck"}
 - [Youtube Solution](https://www.youtube.com/watch?v=hAyZ9K2EBF0){target="_blanck"}
