@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T07:16:32.359Z
+date: 2020-12-22T07:48:04.957Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
@@ -25,4 +25,7 @@ dependencies {
     implementation 'com.google.guava:guava:28.0-jre'
     testImplementation 'junit:junit:4.12'
 }
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 ```
