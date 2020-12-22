@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T14:30:14.041Z
+date: 2020-12-22T14:36:35.927Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
@@ -94,7 +94,9 @@ dependencies {
 }
 ```
 
-### Copy all generated jar files to a /dist folder
+### Task `dist`
+* Copy all generated `jar` files to a `/dist` folder
+* Make `build` depends on `dist`
 ```groovy
 subprojects {
   ...
