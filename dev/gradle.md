@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T07:48:04.957Z
+date: 2020-12-22T07:48:29.227Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
