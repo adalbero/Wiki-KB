@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T13:51:27.428Z
+date: 2020-12-22T14:30:14.041Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
@@ -49,25 +49,20 @@ targetCompatibility = 1.8
     
 `/Root/build.gradle`
 ```groovy
-apply plugin: 'java'
-apply plugin: 'eclipse'
 
 project.ext.libsDfc = { -> fileTree(dir: 'lib/dfc', include '**/*.jar'); }
-repositories {
-  jcenter()
-}
-
-dependencies {
-  implementation 'com.google.guava:guava:28.0-jre'
-  testImplementation 'junit:junit:4.12'
-}
 
 subprojects {
+	apply plugin: 'java'
+	apply plugin: 'eclipse'
+  
   repositories {
       jcenter()
   }
 
   dependencies {
+	  implementation 'com.google.guava:guava:28.0-jre'
+  	testImplementation 'junit:junit:4.12'
   }
 
   sourceCompatibility = 1.8
@@ -84,13 +79,33 @@ include 'ProjectA', 'ProjectB'
 
 `/ProjectA/build.gradle`
 ```groovy
+version "1.0.0"
+
 dependencies {
 	compile libsDfc()
 }
 ```
 `/ProjectB/build.gradle`
 ```groovy
+version "1.0.0"
+
 dependencies {
   compile project(':ProjectA')
 }
+```
+
+### Copy all generated jar files to a /dist folder
+```groovy
+subprojects {
+  ...
+  
+	task dist(type: Copy) {
+  	from("$buildDir/libs")
+    into("../dist")
+  }
+   
+  build.dependsOn dist
+   
+}
+
 ```
