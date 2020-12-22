@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T14:36:35.927Z
+date: 2020-12-22T15:22:43.466Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
@@ -62,7 +62,6 @@ subprojects {
 
   dependencies {
 	  implementation 'com.google.guava:guava:28.0-jre'
-  	testImplementation 'junit:junit:4.12'
   }
 
   sourceCompatibility = 1.8
@@ -110,4 +109,14 @@ subprojects {
    
 }
 
+```
+
+### Gradle + JUnit 4
+```groovy
+dependencies {
+	testImplementation ('junit:junit:4.12') {
+		exclude group: 'org.hamcrest'
+	}
+	testImplementation 'org.hamcrest:hamcrest-library:1.3'
+}
 ```
