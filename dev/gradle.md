@@ -2,7 +2,7 @@
 title: Gradle
 description: 
 published: true
-date: 2020-12-22T15:22:43.466Z
+date: 2021-01-05T14:41:32.784Z
 tags: gradle, java, eclipse
 editor: markdown
 dateCreated: 2020-12-22T07:16:32.359Z
@@ -118,5 +118,21 @@ dependencies {
 		exclude group: 'org.hamcrest'
 	}
 	testImplementation 'org.hamcrest:hamcrest-library:1.3'
+}
+```
+
+### Include sub-project Jar
+
+```groovy
+configurations {
+  extraLibs
+}
+
+dependencies {
+  extraLibs project (path: ':SubProject', configuration: 'archives')
+}
+
+jar {
+  from configurations.extraLibs.collect { it.isDirectory() ? it : zipTree(it) }
 }
 ```
